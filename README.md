@@ -1,6 +1,7 @@
 # ItalianEbookDownloader
+**Supports: https://ebookspy.com/ ; 
+## Settings
+- 
 
-You need 
+You need
 ## Dealing with recaptchav3
-
-### Default download directory
