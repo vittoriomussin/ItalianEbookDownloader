@@ -1,4 +1,6 @@
 # ItalianEbookDownloader
 
 You need 
-## To do
+## Dealing with recaptchav3
+
+### Default download directory
