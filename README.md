@@ -10,8 +10,6 @@ Supported Sites: (https://ebookspy.com/, )
 The lines of the file have this structure:
 Title;book_page;book_language;book_date;book_category
 
-an example:
-
 Catherine des grands chemins by Juliette Benzoni;/catherine-des-grands-chemins-by-juliette-benzoni_62246f04d77d5e6deb287590/;fra;2011-10-11;Azione e avventura
 
 You can query this file to get the books you want (by default there is no query)
