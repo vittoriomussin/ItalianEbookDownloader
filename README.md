@@ -1,5 +1,5 @@
 # ItalianEbookDownloader
-**Supports: https://ebookspy.com/ ; 
+***Supports: https://ebookspy.com/ ; ***
 ## Settings
 - 
 
