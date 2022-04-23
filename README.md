@@ -2,7 +2,7 @@
 Supported Sites: (https://ebookspy.com/, )
 
 ## Disclaimer: Exception Handling
-I'm not very good handling exception so i add a simple try and except in the main() to avoid the program to crash
+I'm not very good handling exception so i added a simple try and except in the main() to avoid the program to crash
 
 ## Settings
 - download_default_directory: path of the download directory
