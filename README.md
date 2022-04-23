@@ -48,3 +48,7 @@ time.sleep(random.randint(1, 3) + random.random())
 ```
 ## Disclaimer: Exception Handling
 I'm not very good in handling exception so i added a simple try and except in the main() to avoid the program to crash
+
+##Upcoming Features
+- better exception handling
+- handle no wi-fi situation
