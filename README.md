@@ -51,5 +51,6 @@ I'm not very good in handling exception so i added a simple try and except in th
 
 ## Upcoming Features
 - path options in the thread class
+- log file
 - better exception handling
 - handle no wi-fi situation
