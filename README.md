@@ -47,4 +47,4 @@ time.sleep(random.randint(1, 3) + random.random())
 time.sleep(random.randint(1, 3) + random.random())
 ```
 ## Disclaimer: Exception Handling
-I'm not very good handling exception so i added a simple try and except in the main() to avoid the program to crash
+I'm not very good in handling exception so i added a simple try and except in the main() to avoid the program to crash
