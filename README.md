@@ -39,7 +39,7 @@ driver.execute_script("Object.defineProperty(navigator, 'webdriver', {get: () =>
 ```
 - Make a realistic page flow
 ```
-#visiting google.com
+# visiting google.com
 time.sleep(random.randint(1, 3) + random.random())
 # visiting the website's home
 time.sleep(random.randint(1, 3) + random.random())
