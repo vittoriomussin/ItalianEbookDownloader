@@ -39,12 +39,10 @@ driver.execute_script("Object.defineProperty(navigator, 'webdriver', {get: () =>
 ```
 - Make a realistic page flow
 ```
-driver.get("https://www.google.com/")
+#visiting google.com
 time.sleep(random.randint(1, 3) + random.random())
 # visiting the website's home
-driver.get("https://ebookspy.com/")
 time.sleep(random.randint(1, 3) + random.random())
 # visiting the page of the ebook
-driver.get(a[0])
 time.sleep(random.randint(1, 3) + random.random())
 ```
